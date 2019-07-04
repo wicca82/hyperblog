@@ -1,6 +1,6 @@
 body
 {
-<<<<<<< HEAD
+  background: grey;
   color: pink;
   text-align: center;
   font-family: "Arial";
@@ -35,6 +35,11 @@ body
     margin: 0;
     padding: 0.5em;
 }
+#cabecera #Icono
+{
+  width: 30px;
+  vertical-align: middle;
+}
 
 #cabecera #tagline
 {
@@ -58,6 +63,7 @@ body
 }
 #post
 {
+    background: purple;
     padding: 1em;
->>>>>>> cabecera
+
 }
